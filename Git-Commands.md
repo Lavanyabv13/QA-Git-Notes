@@ -1,4 +1,4 @@
-# Git \& GitHub Commands Cheat Sheet (QA Engineer)
+# Git and GitHub Commands Cheat Sheet (QA Engineer)
 
 
 
@@ -214,6 +214,29 @@ git branch -m new-name → Rename the current branch.
 9\. Create a Pull Request (PR).
 
 10\. After merge, delete the feature branch.
+
+****Commands every QA Engineer should know:
+git clone
+git status
+git add .
+git commit -m "message"
+git push
+git pull
+git fetch
+git diff
+git log --oneline
+git branch
+git switch
+git merge
+git stash
+git stash pop
+git restore
+git reset
+git revert
+git remote -v
+git tag
+git rm
+git clean
 
 
 
